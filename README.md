@@ -1,7 +1,7 @@
 # Useful-Websites-For-Devs
 ## Just a ReadME containing a list of websites for devs
 
-#### Extension to give daily dev news: https://devdocs.io/
+#### Extension to give daily dev news: https://daily.dev/
 #### Cheat Sheets of every language/framework/library: https://devhints.io/ || https://overapi.com
 #### Algorithms and implementation in different languages: https://the-algorithms.com/
 #### Different documentation for different languages and frameworks: https://devdocs.io/
