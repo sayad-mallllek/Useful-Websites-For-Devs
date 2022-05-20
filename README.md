@@ -14,4 +14,4 @@
 #### CSS3 Generator: https://css3generator.com/
 #### CSS Animation Generator: https://waitanimate.wstone.uk/
 #### Beautiful online code editor that allows you to share the code: https://carbon.now.sh/
-#### Website to learn anything about any topic: https://learn-anything.xyz/operating-systems/unix/shells/bash/
+#### Website to learn anything about any topic: https://learn-anything.xyz/
