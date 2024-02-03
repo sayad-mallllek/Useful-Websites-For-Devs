@@ -15,3 +15,5 @@
 #### CSS Animation Generator: https://waitanimate.wstone.uk/
 #### Beautiful online code editor that allows you to share the code: https://carbon.now.sh/
 #### Website to learn anything about any topic: https://learn-anything.xyz/
+#### Website to create a logo for free: https://namelix.com/
+#### Website to created free video animated tutorials: https://www.animate-code.com/
